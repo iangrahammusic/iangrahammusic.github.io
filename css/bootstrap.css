@@ -9,6 +9,26 @@ $grayLight: #bbbbbb70 !default;
 $grayDark:  #55555570 !default;
 $cyan:     #00aaaad0 !default;
 */
+.filmtitle { color:rgb(255, 223, 128)}
+
+html, body {
+  margin: 0;
+}
+
+#inside {
+  display: flex;
+  width: flex;
+  height: flex;
+  align-items: center;
+  justify-content: center;
+  /* font-size: 60px; */
+}
+
+.image {
+  width: 50%;
+  height: auto;
+}
+
 .center {
   display: block;
   margin-left: auto;
